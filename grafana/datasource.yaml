@@ -1,0 +1,16 @@
+apiVersion: 1
+
+datasources:
+  - name: redis
+    type: redis-datasource
+    uid: redis
+    url: redis://redis:6379      # redis-datasource plugin requires full redis:// URI
+    access: proxy
+    isDefault: true
+    editable: true
+    jsonData:
+      client: standalone
+      poolSize: 5
+      timeout: 10
+      pingInterval: 0
+      pipelineWindow: 0

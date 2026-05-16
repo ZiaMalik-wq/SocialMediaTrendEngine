@@ -1,0 +1,6 @@
+window_size_min: 1
+window_slide_sec: 10
+checkpoint_interval_ms: 5000
+kafka_bootstrap_servers: "kafka:9092"
+cassandra_host: "cassandra"
+redis_host: "redis"

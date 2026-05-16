@@ -1,0 +1,8 @@
+topics:
+  technology: [ai, llm, programming, software, github, python, cloud, api, blockchain]
+  politics:   [election, government, president, senate, vote, policy, congress]
+  sports:     [nfl, nba, soccer, football, cricket, tennis, worldcup, olympics]
+  finance:    [bitcoin, stock, market, crypto, trading, inflation, fed, nasdaq]
+  health:     [vaccine, cancer, mental health, fda, hospital, nutrition]
+  climate:    [climate, wildfire, flood, solar, renewable, emissions, ipcc]
+  entertainment: [movie, music, netflix, spotify, album, concert, grammy, oscar]

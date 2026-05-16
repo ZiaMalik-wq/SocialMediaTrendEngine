@@ -1,0 +1,8 @@
+kafka:
+  bootstrap_servers: "kafka:9092"
+  topics:
+    raw_posts: "raw-posts"
+    trending_hashtags: "trending-hashtags"
+    trending_entities: "trending-entities"
+  partitions: 6
+  replication_factor: 1

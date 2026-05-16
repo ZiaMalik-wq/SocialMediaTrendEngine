@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/.
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+venv*/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+.tox/
+*.coverage
+*.coverage.*
+.cache
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+
+# Docker
+docker-compose.override.yml
+docker-compose.*.yml
+
+# Redis persistence
+dump.rdb
+appendonly.aof
+
+# Grafana plugin binaries
+/grafana/plugins/
+
+# Local builds and artifacts
+*.egg-info/
+dist/
+build/
+
+# Misc
+*.swp
+.mypy_cache/
+coverage.xml
+htmlcov/
+config.bat
+node_modules
